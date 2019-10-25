@@ -8,4 +8,4 @@ For more information about the expectimax algorithm and useful heuristics check 
 
 Enable Chrome remote debugging by starting it with the `remote-debugging-port` command-line switch (e.g. `google-chrome --remote-debugging-port=9222`).
 
-Open up the [2048 game](http://gabrielecirulli.github.io/2048/), then run `2048.py -b chrome` via the command line and watch the game!
+Open up the [2048 game](http://gabrielecirulli.github.io/2048/), then open the directory in which the 2048.py file resides and run `2048.py -b chrome` via the command line and watch the game!
